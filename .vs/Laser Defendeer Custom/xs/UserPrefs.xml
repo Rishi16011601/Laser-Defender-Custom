@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1625BA95-EEAF-50E0-925F-55ECB6D7A189}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemySpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="33" Column="32" />
+      <File FileName="Assets/Scripts/ScoreDisplay.cs" Line="10" Column="24" />
+      <File FileName="Assets/Scripts/EnemyPathing.cs" />
+      <File FileName="Assets/Scripts/WaveConfig.cs" />
+      <File FileName="Assets/Scripts/Enemy.cs" />
+      <File FileName="Assets/Scripts/Level.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laser Defendeer Custom" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="EnemySpawner.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b23c27cf-7583-401c-98e6-94595a6a6c7c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
